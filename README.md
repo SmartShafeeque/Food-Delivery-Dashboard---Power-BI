@@ -3,8 +3,8 @@
 ## Project Overview
 
 This Power BI dashboard analyzes food delivery service data to track orders, delivery times, popular dishes, and revenue trends. It provides insights for optimizing delivery operations and enhancing customer satisfaction.
-
-![Dashboard Preview](path-to-image) *(You can add a preview image of your dashboard here)*
+![Alt Text](https://github.com/SmartShafeeque/Food-Delivery-Dashboard---Power-BI/blob/main/dashboard/Screenshot%20(37).png?raw=true)
+![Alt Text](https://github.com/SmartShafeeque/Food-Delivery-Dashboard---Power-BI/blob/main/dashboard/Screenshot%20(38).png?raw=true)
 
 ## ✨ Features
 - **Order Tracking:** Monitor daily and monthly order volumes.
